@@ -105,7 +105,7 @@ export default function LandingPage() {
       <div className="card">
         {/* Resume Upload Section */}
         <div className="resume-upload">
-          <h2 className="resume-heading">ATS - Resume Uploads</h2>
+          <h2 className="resume-heading">MAHI- Resume Uploads</h2>
           <form className="resume-form" onSubmit={formSubmitHandler}>
             <label className="form-label">Resume</label>
             {!fileData && (
