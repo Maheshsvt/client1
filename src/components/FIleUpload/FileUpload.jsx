@@ -93,7 +93,7 @@ export default function LandingPage() {
     <div className="landing-page dark-theme">
       {/* Navbar */}
       <div className="navbar" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "10px 25px", backgroundColor: "#111827", color: "#ffffff" }}>
-        <div className="navbar-left" style={{ fontWeight: "bold", fontSize: "18px" }}>ATS</div>
+        <div className="navbar-left" style={{ fontWeight: "bold", fontSize: "18px" }}>mahi</div>
         <div className="navbar-right" style={{ display: "flex", gap: "20px" }}>
           <a href="#home" className="nav-link" style={{ color: "#ffffff", textDecoration: "none" }}>Home</a>
           <a href="#jobs" className="nav-link" style={{ color: "#ffffff", textDecoration: "none" }}>Jobs</a>
